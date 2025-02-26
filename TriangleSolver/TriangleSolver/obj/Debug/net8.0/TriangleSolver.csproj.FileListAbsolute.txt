@@ -1,0 +1,9 @@
+/Users/test/Documents/sem2/softwarequality/assignment2/TriangleSolver/TriangleSolver/bin/Debug/net8.0/TriangleSolver.deps.json
+/Users/test/Documents/sem2/softwarequality/assignment2/TriangleSolver/TriangleSolver/bin/Debug/net8.0/TriangleSolver.dll
+/Users/test/Documents/sem2/softwarequality/assignment2/TriangleSolver/TriangleSolver/bin/Debug/net8.0/TriangleSolver.pdb
+/Users/test/Documents/sem2/softwarequality/assignment2/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Documents/sem2/softwarequality/assignment2/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.csproj.CoreCompileInputs.cache
+/Users/test/Documents/sem2/softwarequality/assignment2/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.dll
+/Users/test/Documents/sem2/softwarequality/assignment2/TriangleSolver/TriangleSolver/obj/Debug/net8.0/refint/TriangleSolver.dll
+/Users/test/Documents/sem2/softwarequality/assignment2/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.pdb
+/Users/test/Documents/sem2/softwarequality/assignment2/TriangleSolver/TriangleSolver/obj/Debug/net8.0/ref/TriangleSolver.dll
